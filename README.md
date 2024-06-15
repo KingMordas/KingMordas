@@ -11,7 +11,7 @@
   <ul>
 <li>🔭 I'm a Backend Developer</li>
 <li>🌱 .NET & Java</li>
-<li>📫 My <a href="https://www.linkedin.com/in/arduinicarlo/" target="_blank">LinkedIn profile</a> says a lot about me</li>
+<li>📫 My <a href="https://www.linkedin.com/in/arduinicarlo/" target="_blank">LinkedIn profile</a> has a lot to say about me</li>
 <li>⚡ Fun fact: Star Trek & Star Wars lover, nerd-at-heart</li>
   </ul>
 </div>
