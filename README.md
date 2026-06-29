@@ -1,42 +1,47 @@
-<h1>Mordas' GitHub</h1>
-<h3 style="text-align: justify;">Welcome to my personal GitHub profile.</h3>
+<div align="center">
 
-<p style="text-align: justify;"></h2>My name is <b>Carlo</b> but my friends call me Mordas. I work in the <i>finance / e-commerce payment industry</i> as a <b>Backend Developer</b> with experience in Microsoft Stack applications since 2008 (both client and server) and starting from January 2024 I've become entangled in an adventure to learn more about Java Reactive Programming, using Spring Boot within a REST API context.</p>
+# Hi, I'm Carlo 👋 <sub>aka **Mordas**</sub>
 
-<p>
-<div class="clearfix">
-  <table style="border-collapse: collapse;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=kingmordas&theme=dark&show_icons=true&show=reviews,prs_merged" />
-  </table>
-  <ul>
-<li>🔭 I'm a Backend Developer</li>
-<li>🌱 .NET & Java</li>
-<li>📫 My <a href="https://www.linkedin.com/in/arduinicarlo/" target="_blank">LinkedIn profile</a> has a lot to say about me</li>
-<li>⚡ Fun fact: Star Trek & Star Wars lover, nerd-at-heart</li>
-  </ul>
+### Backend Developer · .NET & Java
+
+<a href="https://www.linkedin.com/in/arduinicarlo/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=kingmordas&style=for-the-badge&color=0a66c2&label=Profile+Views" alt="Profile views" />
+
 </div>
-</p>
 
-<h3>My Primary Skills</h3>
+---
 
-<p>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+### 🚀 About
+
+- 🔭 &nbsp;**Backend Developer** — Microsoft Stack since 2008 (client & server)
+- 🌱 &nbsp;Now exploring **Java Reactive Programming** with Spring Boot & REST APIs
+- 💬 &nbsp;Ask me about **.NET**, **Java**, or **reactive systems**
+- 🖖 &nbsp;Star Trek & Star Wars lover — nerd at heart
+- 📫 &nbsp;Let's connect on **[LinkedIn](https://www.linkedin.com/in/arduinicarlo/)**
+
+### 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=kingmordas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=450&show=reviews,prs_merged" alt="GitHub stats" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmordas&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&card_width=450" alt="Top languages" />
+
 </div>
-</p>
 
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmordas&size_weight=0.5&count_weight=0.5&theme=dark&layout=normal" />
-</p>
+<div align="center">
+<sub>🖖 Live long and prosper · ⚔️ May the Force be with you</sub>
+</div>
