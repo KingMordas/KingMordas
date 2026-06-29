@@ -32,13 +32,12 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=kingmordas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=450&show=reviews,prs_merged" alt="GitHub stats" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmordas&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&card_width=450" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/KingMordas?style=for-the-badge&logo=github&color=0a66c2&labelColor=1f2937)
+![Stars](https://img.shields.io/github/stars/KingMordas?style=for-the-badge&logo=github&color=0a66c2&labelColor=1f2937)
 
 </div>
 
