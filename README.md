@@ -4,7 +4,7 @@
 
 # Carlo Arduini <sub>aka **Mordas**</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF9900&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+Backend+Engineer;Boldly+coding+where+no+dev+has+coded+before;Co-piloted+by+Claude+Code;Engage." alt="C# / .NET Backend Engineer · Boldly coding where no dev has coded before · Co-piloted by Claude Code · Engage." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF9900&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+Backend+Programmer;Boldly+coding+where+no+dev+has+coded+before;Co-piloted+by+Claude+Code;Engage." alt="C# / .NET Backend Programmer · Boldly coding where no dev has coded before · Co-piloted by Claude Code · Engage." />
 
 <a href="https://www.linkedin.com/in/arduinicarlo/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF9900" alt="LinkedIn" /></a>
 <a href="https://www.arduinilive.com/"><img src="https://img.shields.io/badge/arduinilive.com-000000?style=for-the-badge&logo=googlechrome&logoColor=CC99CC" alt="Website" /></a>
@@ -20,7 +20,7 @@
 // Mordas.cs — Starfleet personnel record
 public sealed record Officer(string Name, string Callsign)
 {
-    public string   Rank           => "Backend Engineer · C# / .NET";
+    public string   Rank           => "Backend Programmer · C# / .NET";
     public int      InServiceSince => 2007;
     public string[] Specialties    => ["C#", ".NET", "SQL Server · T-SQL", "Microservices"];
     public string   FirstOfficer   => "Claude Code";   // AI pair-programmer, daily driver
